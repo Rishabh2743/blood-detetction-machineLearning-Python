@@ -32,3 +32,10 @@ Output of the model.
     
 </div>
 
+* Python
+* jupiter Notebook
+* Numpy
+* Pandas
+* Machine Learning
+
+
