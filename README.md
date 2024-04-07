@@ -21,8 +21,14 @@ Output of the model.
 
 ### Technologies Use in  Application
 
+### Technologies Use in  Application
+
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
-    <img alt="Python" width="30px" src="https://icons8.com/icon/13441/python"/>
-    <img alt="Machine Learning" width="30px" src="https://icons8.com/icon/hMHTPqaHq7LA/machine-learning"/>
-    <img alt="Jupiter Notebook" width="30px" src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/>
+    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img alt="jupiter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+    <img alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img alt="Machinelearning" width="30px" src="machine-learning.png"/>
+    
 </div>
+
