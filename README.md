@@ -13,10 +13,14 @@ In this UI, we have to provide the different component counts of our complete bl
 
 
 # Output of Models
-In this UI, we have to provide the different component counts of our complete blood cells.
+Output of the model.
+1. Result tab show the the disease name ( medical name)
+2. Cause tab show the reason  of disorder in blood cells.
+
 <a href="#"><img src="Output of model.png" width=720px ></a>
 
 ### Technologies Use in  Application
+
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
     <img alt="Python" width="30px" src="https://icons8.com/icon/13441/python"/>
     <img alt="Machine Learning" width="30px" src="https://icons8.com/icon/hMHTPqaHq7LA/machine-learning"/>
